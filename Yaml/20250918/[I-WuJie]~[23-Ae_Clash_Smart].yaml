@@ -38,7 +38,7 @@ proxies:
   - {name: "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x", server: cs.472361.xyz, port: 35669, type: vmess, uuid: d793621b-217c-4247-9e1b-dcac8132f5c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x", server: gz.472361.xyz, port: 36149, type: vmess, uuid: d793621b-217c-4247-9e1b-dcac8132f5c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
   - {name: "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x", server: cs.472361.xyz, port: 32958, type: vmess, uuid: d793621b-217c-4247-9e1b-dcac8132f5c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB", server: cs.472361.xyz, port: 27293, type: vmess, uuid: d793621b-217c-4247-9e1b-dcac8132f5c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
+  - {name: "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB", server: cs.472361.xyz, port: 27293, type: vmess, uuid: d793621b-217c-4247-9e1b-dcac8132f5c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 手动选择
     type: select
@@ -90,7 +90,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: ♻️ 自动智能
     type: smart
     uselightgbm: true
@@ -132,7 +132,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 💬 即时通讯
     type: select
     proxies:
@@ -202,7 +202,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🚀 GitHub
     type: select
     proxies:
@@ -273,7 +273,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🤖 Copilot
     type: select
     proxies:
@@ -326,7 +326,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🤖 AI服务
     type: select
     proxies:
@@ -378,7 +378,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎶 TikTok
     type: select
     proxies:
@@ -431,7 +431,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 📹 YouTube
     type: select
     proxies:
@@ -483,7 +483,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎥 Netflix
     type: select
     proxies:
@@ -535,7 +535,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎥 DisneyPlus
     type: select
     proxies:
@@ -587,7 +587,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎥 HBO
     type: select
     proxies:
@@ -640,7 +640,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎥 PrimeVideo
     type: select
     proxies:
@@ -693,7 +693,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎥 AppleTV+
     type: select
     proxies:
@@ -746,7 +746,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎥 Emby
     type: select
     proxies:
@@ -799,7 +799,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎻 Spotify
     type: select
     proxies:
@@ -852,7 +852,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 📺 Bahamut
     type: select
     proxies:
@@ -911,7 +911,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🛒 国外电商
     type: select
     proxies:
@@ -964,7 +964,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -1112,7 +1112,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🚀 测速工具
     type: select
     proxies:
@@ -1165,7 +1165,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -1218,7 +1218,7 @@ proxy-groups:
       - "[VMess] 🇺🇸 美国 | 02 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 03 | BGP | 0.6x"
       - "[VMess] 🇺🇸 美国 | 04 | CMIN2优化 | 2.5x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🔀 非标端口
     type: select
     proxies:
@@ -1364,7 +1364,7 @@ proxy-groups:
       - "[VMess] 🇲🇾 马来西亚 | BGP | 1.0x"
       - "[VMess] 🇳🇿 新西兰 | BGP | 1.0x"
       - "[VMess] 🇷🇺 俄罗斯 | BGP | 0.6x"
-      - "[VMess] 🏳️‍🌈 剩余流量：4232.19 GB"
+      - "[VMess] 🏳️‍🌈 剩余流量：4232.17 GB"
   - name: 🎯 全球直连
     type: select
     proxies:

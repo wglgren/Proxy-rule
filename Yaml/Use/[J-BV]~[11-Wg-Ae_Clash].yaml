@@ -5,58 +5,58 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "[Hysteria2] 自动最优(hy2)-网址vp0.org", server: best.networklinkpro.net, port: 22222, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)", server: 20au.networklinkpro.net, port: 23321, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇧🇷 22巴西-联通/移动(hy2)", server: 22br.networklinkpro.net, port: 23577, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇨🇦 33加拿大-全网优化(hy2)", server: 33ca.networklinkpro.net, port: 21185, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇨🇭 34瑞士-全网优化(hy2)", server: 34ch.networklinkpro.net, port: 23195, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇨🇱 29智利-全网优化(hy2)", server: 29chi.networklinkpro.net, port: 22316, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)", server: 4tw.networklinkpro.net, port: 24633, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇩🇪 11德国-全网优化(hy2)", server: 11de.networklinkpro.net, port: 24158, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)", server: 36es.networklinkpro.net, port: 24564, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇫🇷 27法国-全网优化(hy2)", server: 27fr.networklinkpro.net, port: 25003, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇬🇧 12英国-全网优化(hy2)", server: 12uk.networklinkpro.net, port: 24572, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 自动最优(hy2)-网址vp0.org", server: best.networklinkpro.net, port: 22288, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)", server: 20au.networklinkpro.net, port: 22504, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇧🇷 22巴西-联通/移动(hy2)", server: 22br.networklinkpro.net, port: 21487, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇨🇦 33加拿大-全网优化(hy2)", server: 33ca.networklinkpro.net, port: 24459, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇨🇭 34瑞士-全网优化(hy2)", server: 34ch.networklinkpro.net, port: 21049, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇨🇱 29智利-全网优化(hy2)", server: 29chi.networklinkpro.net, port: 22608, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)", server: 4tw.networklinkpro.net, port: 22659, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇩🇪 11德国-全网优化(hy2)", server: 11de.networklinkpro.net, port: 25597, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)", server: 36es.networklinkpro.net, port: 25816, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇫🇷 27法国-全网优化(hy2)", server: 27fr.networklinkpro.net, port: 22223, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇬🇧 12英国-全网优化(hy2)", server: 12uk.networklinkpro.net, port: 22418, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
   - {name: "[Trojan] 🇭🇰 1香港集群-专线(trojan)", server: dnsmart.vp-cdn.mob.networklinkpro.com, port: 15401, type: trojan, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, skip-cert-verify: true, network: ws, udp: true}
-  - {name: "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)", server: 1hk.networklinkpro.net, port: 21495, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, up: 50 Mbps, down: 100 Mbps, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇭🇰 2香港-全网优化(hy2)", server: 2hk.networklinkpro.net, port: 21776, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, up: 50 Mbps, down: 100 Mbps, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)", server: 1hk.networklinkpro.net, port: 21910, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, up: 50 Mbps, down: 100 Mbps, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇭🇰 2香港-全网优化(hy2)", server: 2hk.networklinkpro.net, port: 22663, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, up: 50 Mbps, down: 100 Mbps, skip-cert-verify: true}
   - {name: "[Trojan] 🇭🇰 3香港-专线(trojan)", server: dnsmart.vp-cdn.mob.networklinkpro.com, port: 15403, type: trojan, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, skip-cert-verify: true, network: ws, udp: true}
-  - {name: "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)", server: 13in.networklinkpro.net, port: 24371, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇮🇹 30意大利-全网优化(hy2)", server: 30it.networklinkpro.net, port: 21688, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇯🇵 18日本东京集群-联通/移动(hy2)", server: 18jp.networklinkpro.net, port: 21799, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)", server: 13in.networklinkpro.net, port: 23789, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇮🇹 30意大利-全网优化(hy2)", server: 30it.networklinkpro.net, port: 23677, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇯🇵 18日本东京集群-联通/移动(hy2)", server: 18jp.networklinkpro.net, port: 25110, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
   - {name: "[Trojan] 🇯🇵 19日本-专线(trojan)", server: dnsmart.vp-cdn.mob.networklinkpro.com, port: 15419, type: trojan, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, skip-cert-verify: true, network: ws, udp: true}
-  - {name: "[Hysteria2] 🇯🇵 19日本东京-联通/移动(hy2)", server: 19jp.networklinkpro.net, port: 22508, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇯🇵 19日本东京-联通/移动(hy2)", server: 19jp.networklinkpro.net, port: 22877, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
   - {name: "[Trojan] 🇯🇵 9日本大版集群-专线(trojan)", server: dnsmart.vp-cdn.mob.networklinkpro.com, port: 15409, type: trojan, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, skip-cert-verify: true, network: ws, udp: true}
-  - {name: "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)", server: 9jp.networklinkpro.net, port: 24205, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)", server: 9jp.networklinkpro.net, port: 21527, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
   - {name: "[Trojan] 🇰🇷 7韩国春川集群-专线(trojan)", server: dnsmart.vp-cdn.mob.networklinkpro.com, port: 15407, type: trojan, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, skip-cert-verify: true, network: ws, udp: true}
-  - {name: "[Hysteria2] 🇰🇷 7韩国春川集群-联通/移动(hy2)", server: 7kr.networklinkpro.net, port: 21767, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇳🇱 26荷兰-全网优化(hy2)", server: 26nl.networklinkpro.net, port: 21285, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)", server: 31se.networklinkpro.net, port: 25653, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria] 🇸🇬 11德国-ChatGPT(新协议)", server: 11de.networklinkpro.net, port: 5621, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 12英国-ChatGPT(新协议)", server: 12uk.networklinkpro.net, port: 8789, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)", server: 13in.networklinkpro.net, port: 5521, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria2] 🇸🇬 15新加坡集群-联通/移动(hy2)", server: 15sg.networklinkpro.net, port: 22265, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria] 🇸🇬 16美国凤凰城集群-联通优化(新协议)", server: 16us.networklinkpro.net, port: 6348, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 19日本东京-联通/移动(新协议)", server: 19jp.networklinkpro.net, port: 9128, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 22巴西-ChatGPT(新协议)", server: 22br.networklinkpro.net, port: 9374, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 26荷兰-全网优化(新协议)", server: 26nl.networklinkpro.net, port: 5828, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 27法国-ChatGPT(新协议)", server: 27fr.networklinkpro.net, port: 6677, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 29智利-ChatGPT(新协议)", server: 29chi.networklinkpro.net, port: 8442, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 30意大利-ChatGPT(新协议)", server: 30it.networklinkpro.net, port: 7981, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)", server: 31se.networklinkpro.net, port: 5416, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 32南非-约翰内斯堡(新协议)", server: 32za.networklinkpro.net, port: 5005, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 33加拿大-ChatGPT(新协议)", server: 33ca.networklinkpro.net, port: 9701, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)", server: 36es.networklinkpro.net, port: 9236, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 38美国洛杉矶-全网优化(新协议)", server: 38us.networklinkpro.net, port: 9926, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 6美国圣何塞集群-全网优化(新协议)", server: 6us.networklinkpro.net, port: 5442, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
-  - {name: "[Hysteria] 🇸🇬 自动最优(新协议)-网址vp0.org", server: best.networklinkpro.net, port: 9040, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
-  - {name: "[Hysteria2] 🇺🇸 16美国凤凰城集群-联通优化(hy2)", server: 16us.networklinkpro.net, port: 25836, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇺🇸 28美国东部-全网优化(hy2)", server: 28us.networklinkpro.net, port: 23560, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇺🇸 38美国洛杉矶-全网优化(hy2)", server: 38us.networklinkpro.net, port: 25466, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇺🇸 5美国波特兰-全网优化(hy2)", server: 5us.networklinkpro.net, port: 23730, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇰🇷 7韩国春川集群-联通/移动(hy2)", server: 7kr.networklinkpro.net, port: 22159, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇳🇱 26荷兰-全网优化(hy2)", server: 26nl.networklinkpro.net, port: 22037, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)", server: 31se.networklinkpro.net, port: 24656, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria] 🇸🇬 11德国-ChatGPT(新协议)", server: 11de.networklinkpro.net, port: 8313, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 12英国-ChatGPT(新协议)", server: 12uk.networklinkpro.net, port: 5370, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)", server: 13in.networklinkpro.net, port: 5836, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria2] 🇸🇬 15新加坡集群-联通/移动(hy2)", server: 15sg.networklinkpro.net, port: 21416, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria] 🇸🇬 16美国凤凰城集群-联通优化(新协议)", server: 16us.networklinkpro.net, port: 7421, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 19日本东京-联通/移动(新协议)", server: 19jp.networklinkpro.net, port: 7262, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 22巴西-ChatGPT(新协议)", server: 22br.networklinkpro.net, port: 7371, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 26荷兰-全网优化(新协议)", server: 26nl.networklinkpro.net, port: 5223, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 27法国-ChatGPT(新协议)", server: 27fr.networklinkpro.net, port: 9948, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 29智利-ChatGPT(新协议)", server: 29chi.networklinkpro.net, port: 8337, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 30意大利-ChatGPT(新协议)", server: 30it.networklinkpro.net, port: 6759, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)", server: 31se.networklinkpro.net, port: 7351, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 32南非-约翰内斯堡(新协议)", server: 32za.networklinkpro.net, port: 9982, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 33加拿大-ChatGPT(新协议)", server: 33ca.networklinkpro.net, port: 7986, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)", server: 36es.networklinkpro.net, port: 5986, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 38美国洛杉矶-全网优化(新协议)", server: 38us.networklinkpro.net, port: 6669, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 6美国圣何塞集群-全网优化(新协议)", server: 6us.networklinkpro.net, port: 5453, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: true, fast-open: true, tfo: true}
+  - {name: "[Hysteria] 🇸🇬 自动最优(新协议)-网址vp0.org", server: best.networklinkpro.net, port: 5148, type: hysteria, ports: 5000-10000, protocol: udp, up: 50 Mbps, up-speed: 50, down: 100 Mbps, down-speed: 100, auth-str: 6cd34b2a-7770-4b55-922c-92f9c4074d70, auth: NmNkMzRiMmEtNzc3MC00YjU1LTkyMmMtOTJmOWM0MDc0ZDcw, skip-cert-verify: true, alpn: [h3], disable-mtu-discovery: false, fast-open: true, tfo: true}
+  - {name: "[Hysteria2] 🇺🇸 16美国凤凰城集群-联通优化(hy2)", server: 16us.networklinkpro.net, port: 24774, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇺🇸 28美国东部-全网优化(hy2)", server: 28us.networklinkpro.net, port: 24386, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇺🇸 38美国洛杉矶-全网优化(hy2)", server: 38us.networklinkpro.net, port: 23313, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇺🇸 5美国波特兰-全网优化(hy2)", server: 5us.networklinkpro.net, port: 23863, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
   - {name: "[Trojan] 🇺🇸 5美国集群-专线(trojan)", server: dnsmart.vp-cdn.mob.networklinkpro.com, port: 15405, type: trojan, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, skip-cert-verify: true, network: ws, udp: true}
   - {name: "[Trojan] 🇺🇸 6美国圣何塞集群-专线(trojan)", server: dnsmart.vp-cdn.mob.networklinkpro.com, port: 15406, type: trojan, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, skip-cert-verify: true, network: ws, udp: true}
-  - {name: "[Hysteria2] 🇺🇸 6美国圣何塞集群-全网优化(hy2)", server: 6us.networklinkpro.net, port: 23366, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇿🇦 32南非-约翰内斯堡(hy2)", server: 32za.networklinkpro.net, port: 21613, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇺🇸 6美国圣何塞集群-全网优化(hy2)", server: 6us.networklinkpro.net, port: 24562, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇿🇦 32南非-约翰内斯堡(hy2)", server: 32za.networklinkpro.net, port: 23097, type: hysteria2, password: 6cd34b2a-7770-4b55-922c-92f9c4074d70, ports: 21000-26000, skip-cert-verify: true}
 proxy-groups:
   - name: 🚀 节点-手动
     type: select
@@ -200,6 +200,258 @@ proxy-groups:
       - "[Trojan] 🇺🇸 5美国集群-专线(trojan)"
       - "[Trojan] 🇺🇸 6美国圣何塞集群-专线(trojan)"
       - "[Hysteria2] 🇺🇸 6美国圣何塞集群-全网优化(hy2)"
+      - "[Hysteria2] 🇿🇦 32南非-约翰内斯堡(hy2)"
+  - name: DX 电信-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)"
+      - "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)"
+      - "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)"
+      - "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)"
+      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
+      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
+      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
+      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
+      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
+      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
+  - name: 🇭🇰 香港-手动
+    type: select
+    proxies:
+      - "[Trojan] 🇭🇰 1香港集群-专线(trojan)"
+      - "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)"
+      - "[Hysteria2] 🇭🇰 2香港-全网优化(hy2)"
+      - "[Trojan] 🇭🇰 3香港-专线(trojan)"
+  - name: 🇺🇸 美国-手动
+    type: select
+    proxies:
+      - "[Hysteria] 🇸🇬 16美国凤凰城集群-联通优化(新协议)"
+      - "[Hysteria] 🇸🇬 38美国洛杉矶-全网优化(新协议)"
+      - "[Hysteria] 🇸🇬 6美国圣何塞集群-全网优化(新协议)"
+      - "[Hysteria2] 🇺🇸 16美国凤凰城集群-联通优化(hy2)"
+      - "[Hysteria2] 🇺🇸 28美国东部-全网优化(hy2)"
+      - "[Hysteria2] 🇺🇸 38美国洛杉矶-全网优化(hy2)"
+      - "[Hysteria2] 🇺🇸 5美国波特兰-全网优化(hy2)"
+      - "[Trojan] 🇺🇸 5美国集群-专线(trojan)"
+      - "[Trojan] 🇺🇸 6美国圣何塞集群-专线(trojan)"
+      - "[Hysteria2] 🇺🇸 6美国圣何塞集群-全网优化(hy2)"
+  - name: 🇯🇵 日本-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇯🇵 18日本东京集群-联通/移动(hy2)"
+      - "[Trojan] 🇯🇵 19日本-专线(trojan)"
+      - "[Hysteria2] 🇯🇵 19日本东京-联通/移动(hy2)"
+      - "[Trojan] 🇯🇵 9日本大版集群-专线(trojan)"
+      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
+      - "[Hysteria] 🇸🇬 19日本东京-联通/移动(新协议)"
+  - name: 🇸🇬 新加坡-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇸🇬 15新加坡集群-联通/移动(hy2)"
+  - name: 🇼🇸 台湾-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)"
+  - name: 🇰🇷 韩国-手动
+    type: select
+    proxies:
+      - "[Trojan] 🇰🇷 7韩国春川集群-专线(trojan)"
+      - "[Hysteria2] 🇰🇷 7韩国春川集群-联通/移动(hy2)"
+  - name: 🇨🇦 加拿大-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇨🇦 33加拿大-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 33加拿大-ChatGPT(新协议)"
+  - name: 🇬🇧 英国-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇬🇧 12英国-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 12英国-ChatGPT(新协议)"
+  - name: 🇫🇷 法国-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇫🇷 27法国-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 27法国-ChatGPT(新协议)"
+  - name: 🇩🇪 德国-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇩🇪 11德国-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 11德国-ChatGPT(新协议)"
+  - name: 🇳🇱 荷兰-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇳🇱 26荷兰-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 26荷兰-全网优化(新协议)"
+  - name: 🇹🇷 土耳其-手动
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🌐 其他-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 自动最优(hy2)-网址vp0.org"
+      - "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)"
+      - "[Hysteria2] 🇧🇷 22巴西-联通/移动(hy2)"
+      - "[Hysteria2] 🇨🇭 34瑞士-全网优化(hy2)"
+      - "[Hysteria2] 🇨🇱 29智利-全网优化(hy2)"
+      - "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)"
+      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
+      - "[Hysteria2] 🇮🇹 30意大利-全网优化(hy2)"
+      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
+      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
+      - "[Hysteria] 🇸🇬 22巴西-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 29智利-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 30意大利-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
+      - "[Hysteria] 🇸🇬 32南非-约翰内斯堡(新协议)"
+      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
+      - "[Hysteria] 🇸🇬 自动最优(新协议)-网址vp0.org"
+      - "[Hysteria2] 🇿🇦 32南非-约翰内斯堡(hy2)"
+  - name: DX 电信-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)"
+      - "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)"
+      - "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)"
+      - "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)"
+      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
+      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
+      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
+      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
+      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
+      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
+  - name: 🇭🇰 香港-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Trojan] 🇭🇰 1香港集群-专线(trojan)"
+      - "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)"
+      - "[Hysteria2] 🇭🇰 2香港-全网优化(hy2)"
+      - "[Trojan] 🇭🇰 3香港-专线(trojan)"
+  - name: 🇺🇸 美国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria] 🇸🇬 16美国凤凰城集群-联通优化(新协议)"
+      - "[Hysteria] 🇸🇬 38美国洛杉矶-全网优化(新协议)"
+      - "[Hysteria] 🇸🇬 6美国圣何塞集群-全网优化(新协议)"
+      - "[Hysteria2] 🇺🇸 16美国凤凰城集群-联通优化(hy2)"
+      - "[Hysteria2] 🇺🇸 28美国东部-全网优化(hy2)"
+      - "[Hysteria2] 🇺🇸 38美国洛杉矶-全网优化(hy2)"
+      - "[Hysteria2] 🇺🇸 5美国波特兰-全网优化(hy2)"
+      - "[Trojan] 🇺🇸 5美国集群-专线(trojan)"
+      - "[Trojan] 🇺🇸 6美国圣何塞集群-专线(trojan)"
+      - "[Hysteria2] 🇺🇸 6美国圣何塞集群-全网优化(hy2)"
+  - name: 🇯🇵 日本-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇯🇵 18日本东京集群-联通/移动(hy2)"
+      - "[Trojan] 🇯🇵 19日本-专线(trojan)"
+      - "[Hysteria2] 🇯🇵 19日本东京-联通/移动(hy2)"
+      - "[Trojan] 🇯🇵 9日本大版集群-专线(trojan)"
+      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
+      - "[Hysteria] 🇸🇬 19日本东京-联通/移动(新协议)"
+  - name: 🇸🇬 新加坡-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇸🇬 15新加坡集群-联通/移动(hy2)"
+  - name: 🇼🇸 台湾-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)"
+  - name: 🇰🇷 韩国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Trojan] 🇰🇷 7韩国春川集群-专线(trojan)"
+      - "[Hysteria2] 🇰🇷 7韩国春川集群-联通/移动(hy2)"
+  - name: 🇨🇦 加拿大-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇨🇦 33加拿大-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 33加拿大-ChatGPT(新协议)"
+  - name: 🇬🇧 英国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇬🇧 12英国-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 12英国-ChatGPT(新协议)"
+  - name: 🇫🇷 法国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇫🇷 27法国-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 27法国-ChatGPT(新协议)"
+  - name: 🇩🇪 德国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇩🇪 11德国-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 11德国-ChatGPT(新协议)"
+  - name: 🇳🇱 荷兰-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇳🇱 26荷兰-全网优化(hy2)"
+      - "[Hysteria] 🇸🇬 26荷兰-全网优化(新协议)"
+  - name: 🇹🇷 土耳其-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - DIRECT
+  - name: 🌐 其他-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 自动最优(hy2)-网址vp0.org"
+      - "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)"
+      - "[Hysteria2] 🇧🇷 22巴西-联通/移动(hy2)"
+      - "[Hysteria2] 🇨🇭 34瑞士-全网优化(hy2)"
+      - "[Hysteria2] 🇨🇱 29智利-全网优化(hy2)"
+      - "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)"
+      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
+      - "[Hysteria2] 🇮🇹 30意大利-全网优化(hy2)"
+      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
+      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
+      - "[Hysteria] 🇸🇬 22巴西-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 29智利-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 30意大利-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
+      - "[Hysteria] 🇸🇬 32南非-约翰内斯堡(新协议)"
+      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
+      - "[Hysteria] 🇸🇬 自动最优(新协议)-网址vp0.org"
       - "[Hysteria2] 🇿🇦 32南非-约翰内斯堡(hy2)"
   - name: 💬 即时通讯
     type: select
@@ -2437,41 +2689,84 @@ proxy-groups:
       - "[Trojan] 🇺🇸 6美国圣何塞集群-专线(trojan)"
       - "[Hysteria2] 🇺🇸 6美国圣何塞集群-全网优化(hy2)"
       - "[Hysteria2] 🇿🇦 32南非-约翰内斯堡(hy2)"
-  - name: DX 电信-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
+  - name: 🔀 非标端口
+    type: select
     proxies:
+      - 🚀 节点-手动
+      - ♻️ 节点-最低延迟
+      - DX 电信-最低延迟
+      - 🇭🇰 香港-最低延迟
+      - 🇺🇸 美国-最低延迟
+      - 🇯🇵 日本-最低延迟
+      - 🇸🇬 新加坡-最低延迟
+      - 🇼🇸 台湾-最低延迟
+      - 🇰🇷 韩国-最低延迟
+      - 🇨🇦 加拿大-最低延迟
+      - 🇬🇧 英国-最低延迟
+      - 🇫🇷 法国-最低延迟
+      - 🇩🇪 德国-最低延迟
+      - 🇳🇱 荷兰-最低延迟
+      - 🇹🇷 土耳其-最低延迟
+      - 🌐 其他-最低延迟
+      - DX 电信-手动
+      - 🇭🇰 香港-手动
+      - 🇺🇸 美国-手动
+      - 🇯🇵 日本-手动
+      - 🇸🇬 新加坡-手动
+      - 🇼🇸 台湾-手动
+      - 🇰🇷 韩国-手动
+      - 🇨🇦 加拿大-手动
+      - 🇬🇧 英国-手动
+      - 🇫🇷 法国-手动
+      - 🇩🇪 德国-手动
+      - 🇳🇱 荷兰-手动
+      - 🇹🇷 土耳其-手动
+      - 🌐 其他-手动
+      - 🎯 全球直连
+      - "[Hysteria2] 自动最优(hy2)-网址vp0.org"
       - "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)"
+      - "[Hysteria2] 🇧🇷 22巴西-联通/移动(hy2)"
+      - "[Hysteria2] 🇨🇦 33加拿大-全网优化(hy2)"
+      - "[Hysteria2] 🇨🇭 34瑞士-全网优化(hy2)"
+      - "[Hysteria2] 🇨🇱 29智利-全网优化(hy2)"
       - "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)"
+      - "[Hysteria2] 🇩🇪 11德国-全网优化(hy2)"
       - "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)"
-      - "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)"
-      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
-      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
-      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
-      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
-      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
-      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
-  - name: 🇭🇰 香港-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
+      - "[Hysteria2] 🇫🇷 27法国-全网优化(hy2)"
+      - "[Hysteria2] 🇬🇧 12英国-全网优化(hy2)"
       - "[Trojan] 🇭🇰 1香港集群-专线(trojan)"
       - "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)"
       - "[Hysteria2] 🇭🇰 2香港-全网优化(hy2)"
       - "[Trojan] 🇭🇰 3香港-专线(trojan)"
-  - name: 🇺🇸 美国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
+      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
+      - "[Hysteria2] 🇮🇹 30意大利-全网优化(hy2)"
+      - "[Hysteria2] 🇯🇵 18日本东京集群-联通/移动(hy2)"
+      - "[Trojan] 🇯🇵 19日本-专线(trojan)"
+      - "[Hysteria2] 🇯🇵 19日本东京-联通/移动(hy2)"
+      - "[Trojan] 🇯🇵 9日本大版集群-专线(trojan)"
+      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
+      - "[Trojan] 🇰🇷 7韩国春川集群-专线(trojan)"
+      - "[Hysteria2] 🇰🇷 7韩国春川集群-联通/移动(hy2)"
+      - "[Hysteria2] 🇳🇱 26荷兰-全网优化(hy2)"
+      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
+      - "[Hysteria] 🇸🇬 11德国-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 12英国-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
+      - "[Hysteria2] 🇸🇬 15新加坡集群-联通/移动(hy2)"
       - "[Hysteria] 🇸🇬 16美国凤凰城集群-联通优化(新协议)"
+      - "[Hysteria] 🇸🇬 19日本东京-联通/移动(新协议)"
+      - "[Hysteria] 🇸🇬 22巴西-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 26荷兰-全网优化(新协议)"
+      - "[Hysteria] 🇸🇬 27法国-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 29智利-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 30意大利-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
+      - "[Hysteria] 🇸🇬 32南非-约翰内斯堡(新协议)"
+      - "[Hysteria] 🇸🇬 33加拿大-ChatGPT(新协议)"
+      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
       - "[Hysteria] 🇸🇬 38美国洛杉矶-全网优化(新协议)"
       - "[Hysteria] 🇸🇬 6美国圣何塞集群-全网优化(新协议)"
+      - "[Hysteria] 🇸🇬 自动最优(新协议)-网址vp0.org"
       - "[Hysteria2] 🇺🇸 16美国凤凰城集群-联通优化(hy2)"
       - "[Hysteria2] 🇺🇸 28美国东部-全网优化(hy2)"
       - "[Hysteria2] 🇺🇸 38美国洛杉矶-全网优化(hy2)"
@@ -2479,215 +2774,6 @@ proxy-groups:
       - "[Trojan] 🇺🇸 5美国集群-专线(trojan)"
       - "[Trojan] 🇺🇸 6美国圣何塞集群-专线(trojan)"
       - "[Hysteria2] 🇺🇸 6美国圣何塞集群-全网优化(hy2)"
-  - name: 🇯🇵 日本-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇯🇵 18日本东京集群-联通/移动(hy2)"
-      - "[Trojan] 🇯🇵 19日本-专线(trojan)"
-      - "[Hysteria2] 🇯🇵 19日本东京-联通/移动(hy2)"
-      - "[Trojan] 🇯🇵 9日本大版集群-专线(trojan)"
-      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
-      - "[Hysteria] 🇸🇬 19日本东京-联通/移动(新协议)"
-  - name: 🇸🇬 新加坡-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇸🇬 15新加坡集群-联通/移动(hy2)"
-  - name: 🇼🇸 台湾-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)"
-  - name: 🇰🇷 韩国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Trojan] 🇰🇷 7韩国春川集群-专线(trojan)"
-      - "[Hysteria2] 🇰🇷 7韩国春川集群-联通/移动(hy2)"
-  - name: 🇨🇦 加拿大-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇨🇦 33加拿大-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 33加拿大-ChatGPT(新协议)"
-  - name: 🇬🇧 英国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇬🇧 12英国-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 12英国-ChatGPT(新协议)"
-  - name: 🇫🇷 法国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇫🇷 27法国-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 27法国-ChatGPT(新协议)"
-  - name: 🇩🇪 德国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇩🇪 11德国-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 11德国-ChatGPT(新协议)"
-  - name: 🇳🇱 荷兰-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇳🇱 26荷兰-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 26荷兰-全网优化(新协议)"
-  - name: 🇹🇷 土耳其-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - DIRECT
-  - name: 🌐 其他-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 自动最优(hy2)-网址vp0.org"
-      - "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)"
-      - "[Hysteria2] 🇧🇷 22巴西-联通/移动(hy2)"
-      - "[Hysteria2] 🇨🇭 34瑞士-全网优化(hy2)"
-      - "[Hysteria2] 🇨🇱 29智利-全网优化(hy2)"
-      - "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)"
-      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
-      - "[Hysteria2] 🇮🇹 30意大利-全网优化(hy2)"
-      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
-      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
-      - "[Hysteria] 🇸🇬 22巴西-ChatGPT(新协议)"
-      - "[Hysteria] 🇸🇬 29智利-ChatGPT(新协议)"
-      - "[Hysteria] 🇸🇬 30意大利-ChatGPT(新协议)"
-      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
-      - "[Hysteria] 🇸🇬 32南非-约翰内斯堡(新协议)"
-      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
-      - "[Hysteria] 🇸🇬 自动最优(新协议)-网址vp0.org"
-      - "[Hysteria2] 🇿🇦 32南非-约翰内斯堡(hy2)"
-  - name: DX 电信-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)"
-      - "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)"
-      - "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)"
-      - "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)"
-      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
-      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
-      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
-      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
-      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
-      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
-  - name: 🇭🇰 香港-手动
-    type: select
-    proxies:
-      - "[Trojan] 🇭🇰 1香港集群-专线(trojan)"
-      - "[Hysteria2] 🇭🇰 1香港集群-电信/联通(hy2)(限速30M)"
-      - "[Hysteria2] 🇭🇰 2香港-全网优化(hy2)"
-      - "[Trojan] 🇭🇰 3香港-专线(trojan)"
-  - name: 🇺🇸 美国-手动
-    type: select
-    proxies:
-      - "[Hysteria] 🇸🇬 16美国凤凰城集群-联通优化(新协议)"
-      - "[Hysteria] 🇸🇬 38美国洛杉矶-全网优化(新协议)"
-      - "[Hysteria] 🇸🇬 6美国圣何塞集群-全网优化(新协议)"
-      - "[Hysteria2] 🇺🇸 16美国凤凰城集群-联通优化(hy2)"
-      - "[Hysteria2] 🇺🇸 28美国东部-全网优化(hy2)"
-      - "[Hysteria2] 🇺🇸 38美国洛杉矶-全网优化(hy2)"
-      - "[Hysteria2] 🇺🇸 5美国波特兰-全网优化(hy2)"
-      - "[Trojan] 🇺🇸 5美国集群-专线(trojan)"
-      - "[Trojan] 🇺🇸 6美国圣何塞集群-专线(trojan)"
-      - "[Hysteria2] 🇺🇸 6美国圣何塞集群-全网优化(hy2)"
-  - name: 🇯🇵 日本-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇯🇵 18日本东京集群-联通/移动(hy2)"
-      - "[Trojan] 🇯🇵 19日本-专线(trojan)"
-      - "[Hysteria2] 🇯🇵 19日本东京-联通/移动(hy2)"
-      - "[Trojan] 🇯🇵 9日本大版集群-专线(trojan)"
-      - "[Hysteria2] 🇯🇵 9日本大版集群-电信/移动(hy2)"
-      - "[Hysteria] 🇸🇬 19日本东京-联通/移动(新协议)"
-  - name: 🇸🇬 新加坡-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇸🇬 15新加坡集群-联通/移动(hy2)"
-  - name: 🇼🇸 台湾-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇨🇳 4台湾-电信/联通(hy2)"
-  - name: 🇰🇷 韩国-手动
-    type: select
-    proxies:
-      - "[Trojan] 🇰🇷 7韩国春川集群-专线(trojan)"
-      - "[Hysteria2] 🇰🇷 7韩国春川集群-联通/移动(hy2)"
-  - name: 🇨🇦 加拿大-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇨🇦 33加拿大-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 33加拿大-ChatGPT(新协议)"
-  - name: 🇬🇧 英国-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇬🇧 12英国-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 12英国-ChatGPT(新协议)"
-  - name: 🇫🇷 法国-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇫🇷 27法国-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 27法国-ChatGPT(新协议)"
-  - name: 🇩🇪 德国-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇩🇪 11德国-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 11德国-ChatGPT(新协议)"
-  - name: 🇳🇱 荷兰-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇳🇱 26荷兰-全网优化(hy2)"
-      - "[Hysteria] 🇸🇬 26荷兰-全网优化(新协议)"
-  - name: 🇹🇷 土耳其-手动
-    type: select
-    proxies:
-      - DIRECT
-  - name: 🌐 其他-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 自动最优(hy2)-网址vp0.org"
-      - "[Hysteria2] 🇦🇺 20澳洲-电信/移动(hy2)"
-      - "[Hysteria2] 🇧🇷 22巴西-联通/移动(hy2)"
-      - "[Hysteria2] 🇨🇭 34瑞士-全网优化(hy2)"
-      - "[Hysteria2] 🇨🇱 29智利-全网优化(hy2)"
-      - "[Hysteria2] 🇪🇸 36西班牙-电信/联通(hy2)"
-      - "[Hysteria2] 🇮🇳 13印度孟买-电信/联通(hy2)"
-      - "[Hysteria2] 🇮🇹 30意大利-全网优化(hy2)"
-      - "[Hysteria2] 🇸🇪 31瑞典-电信/移动(hy2)"
-      - "[Hysteria] 🇸🇬 13印度孟买-电信/联通(新协议)"
-      - "[Hysteria] 🇸🇬 22巴西-ChatGPT(新协议)"
-      - "[Hysteria] 🇸🇬 29智利-ChatGPT(新协议)"
-      - "[Hysteria] 🇸🇬 30意大利-ChatGPT(新协议)"
-      - "[Hysteria] 🇸🇬 31瑞典-电信/移动(新协议)"
-      - "[Hysteria] 🇸🇬 32南非-约翰内斯堡(新协议)"
-      - "[Hysteria] 🇸🇬 36西班牙-电信/联通(新协议)"
-      - "[Hysteria] 🇸🇬 自动最优(新协议)-网址vp0.org"
       - "[Hysteria2] 🇿🇦 32南非-约翰内斯堡(hy2)"
   - name: 🎯 全球直连
     type: select
@@ -2736,6 +2822,7 @@ rules:
   - GEOIP,netflix,🎥 Netflix,no-resolve
   - GEOSITE,cn,🎯 全球直连
   - GEOIP,cn,🎯 全球直连,no-resolve
+  - RULE-SET,Custom_Port_Direct,🔀 非标端口
   - MATCH,🐟 漏网之鱼
 rule-providers:
   Custom_Direct_Classical:
@@ -2755,4 +2842,10 @@ rule-providers:
     behavior: classical
     url: https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Steam_CDN_Classical.yaml
     path: ./providers/13268481674871578153.yaml
+    interval: 28800
+  Custom_Port_Direct:
+    type: http
+    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Custom_Port_Direct.yaml
+    path: ./providers/2451647452112462632.yaml
     interval: 28800

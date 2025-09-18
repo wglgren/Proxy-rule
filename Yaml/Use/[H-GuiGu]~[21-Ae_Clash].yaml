@@ -28,7 +28,7 @@ proxies:
   - {name: "[SS] 🇯🇵 日本｜emby 加速 02｜1x", server: chiyu-5g.huawei-cloud.vip, port: 44968, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
   - {name: "[SS] 🇯🇵 日本｜免广告 03｜1x", server: chiyu-5g.huawei-cloud.vip, port: 16536, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
   - {name: "[SS] 🇯🇵 日本｜流媒体 04｜1x", server: chiyu-5g.huawei-cloud.vip, port: 25802, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
-  - {name: "[VLESS] 🇯🇵 日本｜稳定线路｜1x", server: jp-lain.huawei-cloud.vip, port: 443, type: vless, uuid: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, network: tcp, tls: true, udp: true, flow: xtls-rprx-vision, client-fingerprint: edge, servername: v1-dy.ixigua.com, skip-cert-verify: true, reality-opts: {public-key: DauRpz8lod7VcDkTkyHYCVB3buEcVWxjn-jvMxBp-hA, short-id: af9504}}
+  - {name: "[VLESS] 🇯🇵 日本｜稳定线路｜1x", server: jp-lain.huawei-cloud.vip, port: 443, type: vless, uuid: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, network: tcp, tls: true, udp: true, flow: xtls-rprx-vision, client-fingerprint: qq, servername: v1-dy.ixigua.com, skip-cert-verify: true, reality-opts: {public-key: DauRpz8lod7VcDkTkyHYCVB3buEcVWxjn-jvMxBp-hA, short-id: af9504}}
   - {name: "[SS] 🇯🇵 日本｜高速 02｜1x", server: chiyu-5g.huawei-cloud.vip, port: 44968, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
   - {name: "[SS] 🇰🇷 韩国｜高速｜1x", server: chiyu-5g.huawei-cloud.vip, port: 44741, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
   - {name: "[SS] 🇲🇴 澳门｜1x", server: chiyu-5g.huawei-cloud.vip, port: 25316, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
@@ -44,9 +44,9 @@ proxies:
   - {name: "[SS] 🇺🇸 美国｜Gemini 专用｜Pro", server: meiguo.huawei-cloud.vip, port: 35530, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
   - {name: "[SS] 🇺🇸 美国｜NTT家宽｜3x", server: chiyu-5g.huawei-cloud.vip, port: 55959, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
   - {name: "[SS] 🇺🇸 美国｜NTT家宽｜Pro", server: meiguo.huawei-cloud.vip, port: 54587, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
-  - {name: "[VLESS] 🇺🇸 美国｜下载节点｜0.3x", server: dv.huawei-cloud.vip, port: 443, type: vless, uuid: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, network: tcp, tls: true, udp: true, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: v1-dy.ixigua.com, skip-cert-verify: true, reality-opts: {public-key: DauRpz8lod7VcDkTkyHYCVB3buEcVWxjn-jvMxBp-hA, short-id: af9504}}
+  - {name: "[VLESS] 🇺🇸 美国｜下载节点｜0.3x", server: dv.huawei-cloud.vip, port: 443, type: vless, uuid: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, network: tcp, tls: true, udp: true, flow: xtls-rprx-vision, client-fingerprint: edge, servername: v1-dy.ixigua.com, skip-cert-verify: true, reality-opts: {public-key: DauRpz8lod7VcDkTkyHYCVB3buEcVWxjn-jvMxBp-hA, short-id: af9504}}
   - {name: "[SS] 🇻🇳 越南｜原生｜2x", server: chiyu-5g.huawei-cloud.vip, port: 12105, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
-  - {name: "[SS] 🏳️‍🌈 剩余流量：5910.98 GB", server: chiyu-5g.huawei-cloud.vip, port: 17991, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
+  - {name: "[SS] 🏳️‍🌈 剩余流量：5910.92 GB", server: chiyu-5g.huawei-cloud.vip, port: 17991, type: ss, cipher: chacha20-ietf-poly1305, password: c29a1e79-e0f8-487f-9c6f-23b27a0eb424, udp: true}
 proxy-groups:
   - name: 🚀 手动选择
     type: select
@@ -106,7 +106,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: ♻️ 自动选择
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -154,7 +154,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 💬 即时通讯
     type: select
     proxies:
@@ -232,7 +232,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🚀 GitHub
     type: select
     proxies:
@@ -311,7 +311,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🤖 Copilot
     type: select
     proxies:
@@ -372,7 +372,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🤖 AI服务
     type: select
     proxies:
@@ -432,7 +432,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎶 TikTok
     type: select
     proxies:
@@ -493,7 +493,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 📹 YouTube
     type: select
     proxies:
@@ -553,7 +553,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎥 Netflix
     type: select
     proxies:
@@ -613,7 +613,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎥 DisneyPlus
     type: select
     proxies:
@@ -673,7 +673,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎥 HBO
     type: select
     proxies:
@@ -734,7 +734,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎥 PrimeVideo
     type: select
     proxies:
@@ -795,7 +795,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎥 AppleTV+
     type: select
     proxies:
@@ -856,7 +856,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎥 Emby
     type: select
     proxies:
@@ -917,7 +917,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎻 Spotify
     type: select
     proxies:
@@ -978,7 +978,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 📺 Bahamut
     type: select
     proxies:
@@ -1045,7 +1045,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🛒 国外电商
     type: select
     proxies:
@@ -1106,7 +1106,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -1262,7 +1262,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🚀 测速工具
     type: select
     proxies:
@@ -1323,7 +1323,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -1384,7 +1384,7 @@ proxy-groups:
       - "[SS] 🇺🇸 美国｜NTT家宽｜Pro"
       - "[VLESS] 🇺🇸 美国｜下载节点｜0.3x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🔀 非标端口
     type: select
     proxies:
@@ -1515,7 +1515,7 @@ proxy-groups:
       - "[SS] 🇸🇬 订阅更新｜需要去官网导入"
       - "[SS] 🇹🇭 泰国｜原生｜2x"
       - "[SS] 🇻🇳 越南｜原生｜2x"
-      - "[SS] 🏳️‍🌈 剩余流量：5910.98 GB"
+      - "[SS] 🏳️‍🌈 剩余流量：5910.92 GB"
   - name: 🎯 全球直连
     type: select
     proxies:

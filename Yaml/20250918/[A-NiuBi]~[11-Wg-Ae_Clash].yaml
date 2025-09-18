@@ -9,13 +9,13 @@ proxies:
   - {name: "[VMess] ❗是客户端太旧导致|0.1x", server: mugen22.6bnw.top, port: 8080, type: vmess, uuid: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: buyvmus2.6bnw.top}}, udp: true}
   - {name: "[VMess] ❗请到网站使用教程|0.1x", server: mugen33.6bnw.top, port: 8080, type: vmess, uuid: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: buyvmus2.6bnw.top}}, udp: true}
   - {name: "[Hysteria2] 纽约", server: azcus1.jueduibupao.top, port: 20101, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 300 Mbps, down: 300 Mbps, sni: azcus1.jueduibupao.top, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇨🇦 加拿大", server: ca1.jueduibupao.top, port: 42241, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 300 Mbps, down: 300 Mbps, sni: ca1.jueduibupao.top, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇨🇦 加拿大", server: ca1.jueduibupao.top, port: 40447, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 300 Mbps, down: 300 Mbps, sni: ca1.jueduibupao.top, skip-cert-verify: true}
   - {name: "[SS] 🇨🇦 加拿大01", server: hzhz1.sssyun.xyz, port: 39209, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇨🇦 加拿大02", server: hzhz2.sssyun.xyz, port: 40021, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇨🇳 台湾01-流媒体解锁|AI", server: hzhz1.sssyun.xyz, port: 32207, type: ss, cipher: 2022-blake3-aes-128-gcm, password: NjVhMWE2YmVmNzg4MTcwMA==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇨🇳 台湾02-流媒体解锁|AI", server: hzhz2.sssyun.xyz, port: 40017, type: ss, cipher: 2022-blake3-aes-128-gcm, password: NjVhMWE2YmVmNzg4MTcwMA==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[Hysteria2] 🇨🇳 台湾1-流媒体解锁|AI", server: tw2.jueduibupao.top, port: 30078, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 200 Mbps, down: 200 Mbps, sni: tw2.jueduibupao.top, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇩🇪 德国", server: de1.jueduibupao.top, port: 41966, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 300 Mbps, down: 300 Mbps, sni: de1.jueduibupao.top, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇩🇪 德国", server: de1.jueduibupao.top, port: 46336, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 300 Mbps, down: 300 Mbps, sni: de1.jueduibupao.top, skip-cert-verify: true}
   - {name: "[SS] 🇩🇪 德国01", server: hzhz1.sssyun.xyz, port: 39987, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇩🇪 德国02", server: hzhz2.sssyun.xyz, port: 39981, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇭🇰 香港01-IPv6", server: hzhz1.sssyun.xyz, port: 29527, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
@@ -25,13 +25,13 @@ proxies:
   - {name: "[SS] 🇭🇰 香港05-流媒体解锁", server: hzhz1.sssyun.xyz, port: 39301, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇭🇰 香港06-流媒体解锁", server: hzhz2.sssyun.xyz, port: 40011, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[Hysteria2] 🇭🇰 香港1", server: hk1.jueduibupao.top, port: 50001, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 100 Mbps, down: 300 Mbps, sni: hk1.jueduibupao.top, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇭🇰 香港2", server: hk2.jueduibupao.top, port: 40881, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 100 Mbps, down: 300 Mbps, sni: hk2.jueduibupao.top, skip-cert-verify: true}
-  - {name: "[Hysteria2] 🇭🇰 香港3", server: hk3.jueduibupao.top, port: 40654, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 100 Mbps, down: 300 Mbps, sni: hk3.jueduibupao.top, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇭🇰 香港2", server: hk2.jueduibupao.top, port: 48790, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 100 Mbps, down: 300 Mbps, sni: hk2.jueduibupao.top, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇭🇰 香港3", server: hk3.jueduibupao.top, port: 45850, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 100 Mbps, down: 300 Mbps, sni: hk3.jueduibupao.top, skip-cert-verify: true}
   - {name: "[SS] 🇯🇵 日本01", server: hzhz1.sssyun.xyz, port: 19529, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇯🇵 日本02", server: hzhz2.sssyun.xyz, port: 40019, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇯🇵 日本03", server: hzhz1.sssyun.xyz, port: 49207, type: ss, cipher: 2022-blake3-aes-256-gcm, password: MDhhMTdjZDI0MjI2ZWRlNjE5OWQyNDYxZjM1MjA0OTg=:YTFiNGE1NWEtMzVlMC00YzAyLWI0MWQtNTdlOWViZjc=, udp: true}
   - {name: "[SS] 🇯🇵 日本04", server: hzhz2.sssyun.xyz, port: 40020, type: ss, cipher: 2022-blake3-aes-256-gcm, password: MDhhMTdjZDI0MjI2ZWRlNjE5OWQyNDYxZjM1MjA0OTg=:YTFiNGE1NWEtMzVlMC00YzAyLWI0MWQtNTdlOWViZjc=, udp: true}
-  - {name: "[Hysteria2] 🇯🇵 日本1", server: linjp1.jueduibupao.top, port: 47190, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 100 Mbps, down: 300 Mbps, sni: linjp1.jueduibupao.top, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇯🇵 日本1", server: linjp1.jueduibupao.top, port: 41454, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 100 Mbps, down: 300 Mbps, sni: linjp1.jueduibupao.top, skip-cert-verify: true}
   - {name: "[Hysteria2] 🇯🇵 日本2", server: linjp2.jueduibupao.top, port: 30000, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 100 Mbps, down: 300 Mbps, sni: linjp2.jueduibupao.top, skip-cert-verify: true}
   - {name: "[Hysteria2] 🇰🇷 韩国", server: kr2.jueduibupao.top, port: 30000, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 200 Mbps, down: 300 Mbps, sni: kr2.jueduibupao.top, skip-cert-verify: true}
   - {name: "[Hysteria2] 🇰🇷 韩国-家宽-流媒体解锁|AI", server: 6bkr1.6bnw.top, port: 10100, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 100 Mbps, down: 100 Mbps, sni: 6bkr1.6bnw.top, skip-cert-verify: true}
@@ -43,7 +43,7 @@ proxies:
   - {name: "[SS] 🇸🇬 新加坡02-流媒体解锁|AI", server: hzhz2.sssyun.xyz, port: 40013, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇸🇬 新加坡03", server: hzhz1.sssyun.xyz, port: 39505, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
   - {name: "[SS] 🇸🇬 新加坡04", server: hzhz2.sssyun.xyz, port: 44014, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:YTFiNGE1NWEtMzVlMC00Yw==, udp: true}
-  - {name: "[Hysteria2] 🇸🇬 新加坡1", server: linsg1.jueduibupao.top, port: 45983, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 300 Mbps, down: 300 Mbps, sni: linsg1.jueduibupao.top, skip-cert-verify: true}
+  - {name: "[Hysteria2] 🇸🇬 新加坡1", server: linsg1.jueduibupao.top, port: 42345, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, ports: 40000-50000, up: 300 Mbps, down: 300 Mbps, sni: linsg1.jueduibupao.top, skip-cert-verify: true}
   - {name: "[Hysteria2] 🇹🇭 曼谷", server: th1.jueduibupao.top, port: 30000, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 300 Mbps, down: 300 Mbps, sni: th1.jueduibupao.top, skip-cert-verify: true}
   - {name: "[Hysteria2] 🇺🇸 凤凰城", server: ny.jueduibupao.top, port: 50001, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 300 Mbps, down: 300 Mbps, sni: ny.jueduibupao.top, skip-cert-verify: true}
   - {name: "[Hysteria2] 🇺🇸 拉斯维加斯", server: lvs.jueduibupao.top, port: 50001, type: hysteria2, password: a1b4a55a-35e0-4c02-b41d-57e9ebf701a4, up: 300 Mbps, down: 300 Mbps, sni: lvs.jueduibupao.top, skip-cert-verify: true}
@@ -189,6 +189,238 @@ proxy-groups:
       - "[SS] 🇺🇸 美国拉斯维加斯02"
       - "[SS] 🇺🇸 美国纽约01"
       - "[SS] 🇺🇸 美国纽约02"
+  - name: DX 电信-手动
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🇭🇰 香港-手动
+    type: select
+    proxies:
+      - "[SS] 🇭🇰 香港01-IPv6"
+      - "[SS] 🇭🇰 香港02-IPv6"
+      - "[SS] 🇭🇰 香港03-IPv6"
+      - "[SS] 🇭🇰 香港04-IPv6"
+      - "[SS] 🇭🇰 香港05-流媒体解锁"
+      - "[SS] 🇭🇰 香港06-流媒体解锁"
+      - "[Hysteria2] 🇭🇰 香港1"
+      - "[Hysteria2] 🇭🇰 香港2"
+      - "[Hysteria2] 🇭🇰 香港3"
+  - name: 🇺🇸 美国-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇺🇸 凤凰城"
+      - "[Hysteria2] 🇺🇸 拉斯维加斯"
+      - "[SS] 🇺🇸 美国凤凰城01"
+      - "[SS] 🇺🇸 美国凤凰城02"
+      - "[SS] 🇺🇸 美国拉斯维加斯01"
+      - "[SS] 🇺🇸 美国拉斯维加斯02"
+      - "[SS] 🇺🇸 美国纽约01"
+      - "[SS] 🇺🇸 美国纽约02"
+  - name: 🇯🇵 日本-手动
+    type: select
+    proxies:
+      - "[SS] 🇯🇵 日本01"
+      - "[SS] 🇯🇵 日本02"
+      - "[SS] 🇯🇵 日本03"
+      - "[SS] 🇯🇵 日本04"
+      - "[Hysteria2] 🇯🇵 日本1"
+      - "[Hysteria2] 🇯🇵 日本2"
+  - name: 🇸🇬 新加坡-手动
+    type: select
+    proxies:
+      - "[SS] 🇸🇬 新加坡01-流媒体解锁|AI"
+      - "[SS] 🇸🇬 新加坡02-流媒体解锁|AI"
+      - "[SS] 🇸🇬 新加坡03"
+      - "[SS] 🇸🇬 新加坡04"
+      - "[Hysteria2] 🇸🇬 新加坡1"
+  - name: 🇼🇸 台湾-手动
+    type: select
+    proxies:
+      - "[SS] 🇨🇳 台湾01-流媒体解锁|AI"
+      - "[SS] 🇨🇳 台湾02-流媒体解锁|AI"
+      - "[Hysteria2] 🇨🇳 台湾1-流媒体解锁|AI"
+  - name: 🇰🇷 韩国-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇰🇷 韩国"
+      - "[Hysteria2] 🇰🇷 韩国-家宽-流媒体解锁|AI"
+      - "[SS] 🇰🇷 韩国-家宽03-流媒体解锁|AI"
+      - "[SS] 🇰🇷 韩国-家宽04-流媒体解锁|AI"
+  - name: 🇨🇦 加拿大-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇨🇦 加拿大"
+      - "[SS] 🇨🇦 加拿大01"
+      - "[SS] 🇨🇦 加拿大02"
+  - name: 🇬🇧 英国-手动
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🇫🇷 法国-手动
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🇩🇪 德国-手动
+    type: select
+    proxies:
+      - "[Hysteria2] 🇩🇪 德国"
+      - "[SS] 🇩🇪 德国01"
+      - "[SS] 🇩🇪 德国02"
+  - name: 🇳🇱 荷兰-手动
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🇹🇷 土耳其-手动
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🌐 其他-手动
+    type: select
+    proxies:
+      - "[VMess] ❗如果只显示此节点|0.1x"
+      - "[VMess] ❗是客户端太旧导致|0.1x"
+      - "[VMess] ❗请到网站使用教程|0.1x"
+      - "[Hysteria2] 纽约"
+      - "[VMess] 🇸🇬 ❗更新一下客户端|0.1x"
+      - "[SS] 🇸🇬 建议每次使用前都更新订阅"
+      - "[Hysteria2] 🇹🇭 曼谷"
+  - name: DX 电信-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - DIRECT
+  - name: 🇭🇰 香港-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[SS] 🇭🇰 香港01-IPv6"
+      - "[SS] 🇭🇰 香港02-IPv6"
+      - "[SS] 🇭🇰 香港03-IPv6"
+      - "[SS] 🇭🇰 香港04-IPv6"
+      - "[SS] 🇭🇰 香港05-流媒体解锁"
+      - "[SS] 🇭🇰 香港06-流媒体解锁"
+      - "[Hysteria2] 🇭🇰 香港1"
+      - "[Hysteria2] 🇭🇰 香港2"
+      - "[Hysteria2] 🇭🇰 香港3"
+  - name: 🇺🇸 美国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇺🇸 凤凰城"
+      - "[Hysteria2] 🇺🇸 拉斯维加斯"
+      - "[SS] 🇺🇸 美国凤凰城01"
+      - "[SS] 🇺🇸 美国凤凰城02"
+      - "[SS] 🇺🇸 美国拉斯维加斯01"
+      - "[SS] 🇺🇸 美国拉斯维加斯02"
+      - "[SS] 🇺🇸 美国纽约01"
+      - "[SS] 🇺🇸 美国纽约02"
+  - name: 🇯🇵 日本-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[SS] 🇯🇵 日本01"
+      - "[SS] 🇯🇵 日本02"
+      - "[SS] 🇯🇵 日本03"
+      - "[SS] 🇯🇵 日本04"
+      - "[Hysteria2] 🇯🇵 日本1"
+      - "[Hysteria2] 🇯🇵 日本2"
+  - name: 🇸🇬 新加坡-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[SS] 🇸🇬 新加坡01-流媒体解锁|AI"
+      - "[SS] 🇸🇬 新加坡02-流媒体解锁|AI"
+      - "[SS] 🇸🇬 新加坡03"
+      - "[SS] 🇸🇬 新加坡04"
+      - "[Hysteria2] 🇸🇬 新加坡1"
+  - name: 🇼🇸 台湾-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[SS] 🇨🇳 台湾01-流媒体解锁|AI"
+      - "[SS] 🇨🇳 台湾02-流媒体解锁|AI"
+      - "[Hysteria2] 🇨🇳 台湾1-流媒体解锁|AI"
+  - name: 🇰🇷 韩国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇰🇷 韩国"
+      - "[Hysteria2] 🇰🇷 韩国-家宽-流媒体解锁|AI"
+      - "[SS] 🇰🇷 韩国-家宽03-流媒体解锁|AI"
+      - "[SS] 🇰🇷 韩国-家宽04-流媒体解锁|AI"
+  - name: 🇨🇦 加拿大-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇨🇦 加拿大"
+      - "[SS] 🇨🇦 加拿大01"
+      - "[SS] 🇨🇦 加拿大02"
+  - name: 🇬🇧 英国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - DIRECT
+  - name: 🇫🇷 法国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - DIRECT
+  - name: 🇩🇪 德国-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[Hysteria2] 🇩🇪 德国"
+      - "[SS] 🇩🇪 德国01"
+      - "[SS] 🇩🇪 德国02"
+  - name: 🇳🇱 荷兰-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - DIRECT
+  - name: 🇹🇷 土耳其-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - DIRECT
+  - name: 🌐 其他-最低延迟
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "[VMess] ❗如果只显示此节点|0.1x"
+      - "[VMess] ❗是客户端太旧导致|0.1x"
+      - "[VMess] ❗请到网站使用教程|0.1x"
+      - "[Hysteria2] 纽约"
+      - "[VMess] 🇸🇬 ❗更新一下客户端|0.1x"
+      - "[SS] 🇸🇬 建议每次使用前都更新订阅"
+      - "[Hysteria2] 🇹🇭 曼谷"
   - name: 💬 即时通讯
     type: select
     proxies:
@@ -2321,19 +2553,53 @@ proxy-groups:
       - "[SS] 🇺🇸 美国拉斯维加斯02"
       - "[SS] 🇺🇸 美国纽约01"
       - "[SS] 🇺🇸 美国纽约02"
-  - name: DX 电信-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
+  - name: 🔀 非标端口
+    type: select
     proxies:
-      - DIRECT
-  - name: 🇭🇰 香港-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
+      - 🚀 节点-手动
+      - ♻️ 节点-最低延迟
+      - DX 电信-最低延迟
+      - 🇭🇰 香港-最低延迟
+      - 🇺🇸 美国-最低延迟
+      - 🇯🇵 日本-最低延迟
+      - 🇸🇬 新加坡-最低延迟
+      - 🇼🇸 台湾-最低延迟
+      - 🇰🇷 韩国-最低延迟
+      - 🇨🇦 加拿大-最低延迟
+      - 🇬🇧 英国-最低延迟
+      - 🇫🇷 法国-最低延迟
+      - 🇩🇪 德国-最低延迟
+      - 🇳🇱 荷兰-最低延迟
+      - 🇹🇷 土耳其-最低延迟
+      - 🌐 其他-最低延迟
+      - DX 电信-手动
+      - 🇭🇰 香港-手动
+      - 🇺🇸 美国-手动
+      - 🇯🇵 日本-手动
+      - 🇸🇬 新加坡-手动
+      - 🇼🇸 台湾-手动
+      - 🇰🇷 韩国-手动
+      - 🇨🇦 加拿大-手动
+      - 🇬🇧 英国-手动
+      - 🇫🇷 法国-手动
+      - 🇩🇪 德国-手动
+      - 🇳🇱 荷兰-手动
+      - 🇹🇷 土耳其-手动
+      - 🌐 其他-手动
+      - 🎯 全球直连
+      - "[VMess] ❗如果只显示此节点|0.1x"
+      - "[VMess] ❗是客户端太旧导致|0.1x"
+      - "[VMess] ❗请到网站使用教程|0.1x"
+      - "[Hysteria2] 纽约"
+      - "[Hysteria2] 🇨🇦 加拿大"
+      - "[SS] 🇨🇦 加拿大01"
+      - "[SS] 🇨🇦 加拿大02"
+      - "[SS] 🇨🇳 台湾01-流媒体解锁|AI"
+      - "[SS] 🇨🇳 台湾02-流媒体解锁|AI"
+      - "[Hysteria2] 🇨🇳 台湾1-流媒体解锁|AI"
+      - "[Hysteria2] 🇩🇪 德国"
+      - "[SS] 🇩🇪 德国01"
+      - "[SS] 🇩🇪 德国02"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -2343,12 +2609,24 @@ proxy-groups:
       - "[Hysteria2] 🇭🇰 香港1"
       - "[Hysteria2] 🇭🇰 香港2"
       - "[Hysteria2] 🇭🇰 香港3"
-  - name: 🇺🇸 美国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
+      - "[SS] 🇯🇵 日本01"
+      - "[SS] 🇯🇵 日本02"
+      - "[SS] 🇯🇵 日本03"
+      - "[SS] 🇯🇵 日本04"
+      - "[Hysteria2] 🇯🇵 日本1"
+      - "[Hysteria2] 🇯🇵 日本2"
+      - "[Hysteria2] 🇰🇷 韩国"
+      - "[Hysteria2] 🇰🇷 韩国-家宽-流媒体解锁|AI"
+      - "[SS] 🇰🇷 韩国-家宽03-流媒体解锁|AI"
+      - "[SS] 🇰🇷 韩国-家宽04-流媒体解锁|AI"
+      - "[VMess] 🇸🇬 ❗更新一下客户端|0.1x"
+      - "[SS] 🇸🇬 建议每次使用前都更新订阅"
+      - "[SS] 🇸🇬 新加坡01-流媒体解锁|AI"
+      - "[SS] 🇸🇬 新加坡02-流媒体解锁|AI"
+      - "[SS] 🇸🇬 新加坡03"
+      - "[SS] 🇸🇬 新加坡04"
+      - "[Hysteria2] 🇸🇬 新加坡1"
+      - "[Hysteria2] 🇹🇭 曼谷"
       - "[Hysteria2] 🇺🇸 凤凰城"
       - "[Hysteria2] 🇺🇸 拉斯维加斯"
       - "[SS] 🇺🇸 美国凤凰城01"
@@ -2357,202 +2635,6 @@ proxy-groups:
       - "[SS] 🇺🇸 美国拉斯维加斯02"
       - "[SS] 🇺🇸 美国纽约01"
       - "[SS] 🇺🇸 美国纽约02"
-  - name: 🇯🇵 日本-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[SS] 🇯🇵 日本01"
-      - "[SS] 🇯🇵 日本02"
-      - "[SS] 🇯🇵 日本03"
-      - "[SS] 🇯🇵 日本04"
-      - "[Hysteria2] 🇯🇵 日本1"
-      - "[Hysteria2] 🇯🇵 日本2"
-  - name: 🇸🇬 新加坡-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[SS] 🇸🇬 新加坡01-流媒体解锁|AI"
-      - "[SS] 🇸🇬 新加坡02-流媒体解锁|AI"
-      - "[SS] 🇸🇬 新加坡03"
-      - "[SS] 🇸🇬 新加坡04"
-      - "[Hysteria2] 🇸🇬 新加坡1"
-  - name: 🇼🇸 台湾-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[SS] 🇨🇳 台湾01-流媒体解锁|AI"
-      - "[SS] 🇨🇳 台湾02-流媒体解锁|AI"
-      - "[Hysteria2] 🇨🇳 台湾1-流媒体解锁|AI"
-  - name: 🇰🇷 韩国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇰🇷 韩国"
-      - "[Hysteria2] 🇰🇷 韩国-家宽-流媒体解锁|AI"
-      - "[SS] 🇰🇷 韩国-家宽03-流媒体解锁|AI"
-      - "[SS] 🇰🇷 韩国-家宽04-流媒体解锁|AI"
-  - name: 🇨🇦 加拿大-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇨🇦 加拿大"
-      - "[SS] 🇨🇦 加拿大01"
-      - "[SS] 🇨🇦 加拿大02"
-  - name: 🇬🇧 英国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - DIRECT
-  - name: 🇫🇷 法国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - DIRECT
-  - name: 🇩🇪 德国-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[Hysteria2] 🇩🇪 德国"
-      - "[SS] 🇩🇪 德国01"
-      - "[SS] 🇩🇪 德国02"
-  - name: 🇳🇱 荷兰-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - DIRECT
-  - name: 🇹🇷 土耳其-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - DIRECT
-  - name: 🌐 其他-最低延迟
-    type: url-test
-    url: https://cp.cloudflare.com/generate_204
-    interval: 300
-    tolerance: 50
-    proxies:
-      - "[VMess] ❗如果只显示此节点|0.1x"
-      - "[VMess] ❗是客户端太旧导致|0.1x"
-      - "[VMess] ❗请到网站使用教程|0.1x"
-      - "[Hysteria2] 纽约"
-      - "[VMess] 🇸🇬 ❗更新一下客户端|0.1x"
-      - "[SS] 🇸🇬 建议每次使用前都更新订阅"
-      - "[Hysteria2] 🇹🇭 曼谷"
-  - name: DX 电信-手动
-    type: select
-    proxies:
-      - DIRECT
-  - name: 🇭🇰 香港-手动
-    type: select
-    proxies:
-      - "[SS] 🇭🇰 香港01-IPv6"
-      - "[SS] 🇭🇰 香港02-IPv6"
-      - "[SS] 🇭🇰 香港03-IPv6"
-      - "[SS] 🇭🇰 香港04-IPv6"
-      - "[SS] 🇭🇰 香港05-流媒体解锁"
-      - "[SS] 🇭🇰 香港06-流媒体解锁"
-      - "[Hysteria2] 🇭🇰 香港1"
-      - "[Hysteria2] 🇭🇰 香港2"
-      - "[Hysteria2] 🇭🇰 香港3"
-  - name: 🇺🇸 美国-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇺🇸 凤凰城"
-      - "[Hysteria2] 🇺🇸 拉斯维加斯"
-      - "[SS] 🇺🇸 美国凤凰城01"
-      - "[SS] 🇺🇸 美国凤凰城02"
-      - "[SS] 🇺🇸 美国拉斯维加斯01"
-      - "[SS] 🇺🇸 美国拉斯维加斯02"
-      - "[SS] 🇺🇸 美国纽约01"
-      - "[SS] 🇺🇸 美国纽约02"
-  - name: 🇯🇵 日本-手动
-    type: select
-    proxies:
-      - "[SS] 🇯🇵 日本01"
-      - "[SS] 🇯🇵 日本02"
-      - "[SS] 🇯🇵 日本03"
-      - "[SS] 🇯🇵 日本04"
-      - "[Hysteria2] 🇯🇵 日本1"
-      - "[Hysteria2] 🇯🇵 日本2"
-  - name: 🇸🇬 新加坡-手动
-    type: select
-    proxies:
-      - "[SS] 🇸🇬 新加坡01-流媒体解锁|AI"
-      - "[SS] 🇸🇬 新加坡02-流媒体解锁|AI"
-      - "[SS] 🇸🇬 新加坡03"
-      - "[SS] 🇸🇬 新加坡04"
-      - "[Hysteria2] 🇸🇬 新加坡1"
-  - name: 🇼🇸 台湾-手动
-    type: select
-    proxies:
-      - "[SS] 🇨🇳 台湾01-流媒体解锁|AI"
-      - "[SS] 🇨🇳 台湾02-流媒体解锁|AI"
-      - "[Hysteria2] 🇨🇳 台湾1-流媒体解锁|AI"
-  - name: 🇰🇷 韩国-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇰🇷 韩国"
-      - "[Hysteria2] 🇰🇷 韩国-家宽-流媒体解锁|AI"
-      - "[SS] 🇰🇷 韩国-家宽03-流媒体解锁|AI"
-      - "[SS] 🇰🇷 韩国-家宽04-流媒体解锁|AI"
-  - name: 🇨🇦 加拿大-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇨🇦 加拿大"
-      - "[SS] 🇨🇦 加拿大01"
-      - "[SS] 🇨🇦 加拿大02"
-  - name: 🇬🇧 英国-手动
-    type: select
-    proxies:
-      - DIRECT
-  - name: 🇫🇷 法国-手动
-    type: select
-    proxies:
-      - DIRECT
-  - name: 🇩🇪 德国-手动
-    type: select
-    proxies:
-      - "[Hysteria2] 🇩🇪 德国"
-      - "[SS] 🇩🇪 德国01"
-      - "[SS] 🇩🇪 德国02"
-  - name: 🇳🇱 荷兰-手动
-    type: select
-    proxies:
-      - DIRECT
-  - name: 🇹🇷 土耳其-手动
-    type: select
-    proxies:
-      - DIRECT
-  - name: 🌐 其他-手动
-    type: select
-    proxies:
-      - "[VMess] ❗如果只显示此节点|0.1x"
-      - "[VMess] ❗是客户端太旧导致|0.1x"
-      - "[VMess] ❗请到网站使用教程|0.1x"
-      - "[Hysteria2] 纽约"
-      - "[VMess] 🇸🇬 ❗更新一下客户端|0.1x"
-      - "[SS] 🇸🇬 建议每次使用前都更新订阅"
-      - "[Hysteria2] 🇹🇭 曼谷"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -2600,6 +2682,7 @@ rules:
   - GEOIP,netflix,🎥 Netflix,no-resolve
   - GEOSITE,cn,🎯 全球直连
   - GEOIP,cn,🎯 全球直连,no-resolve
+  - RULE-SET,Custom_Port_Direct,🔀 非标端口
   - MATCH,🐟 漏网之鱼
 rule-providers:
   Custom_Direct_Classical:
@@ -2619,4 +2702,10 @@ rule-providers:
     behavior: classical
     url: https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Steam_CDN_Classical.yaml
     path: ./providers/13268481674871578153.yaml
+    interval: 28800
+  Custom_Port_Direct:
+    type: http
+    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/rule/Custom_Port_Direct.yaml
+    path: ./providers/2451647452112462632.yaml
     interval: 28800
